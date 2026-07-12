@@ -1,0 +1,5 @@
+1. El dueño de un depósito (Don Carlos) necesita centralizar los registros de inventario de sus empleados sin invertir en hardware costoso ni capacitaciones, y hoy lo resuelve con un único cuaderno físico compartido, que le falla en que los empleados terminan usando cartones sueltos cuando él no está, generando descuadres al final del día.
+
+2. El encargado de mostrador (Luis) necesita registrar la salida de los productos en segundos sin interrumpir la atención al cliente, y hoy lo resuelve con confiar en su memoria diciendo "al rato lo anoto", que le falla en que en las horas pico se le olvida por completo apuntarlo, descuadrando el sistema y provocando regaños de su jefe.
+
+3. El dueño de un depósito (Don Carlos) necesita controlar las fechas de caducidad del producto nuevo sin detener el flujo rápido de descarga de los camiones, y hoy lo resuelve con contar la mercadería por fuera solo por paquete, que le falla en que los proveedores aprovechan para esconderle producto viejo al fondo, generándole pérdidas financieras directas al vencerse la mercancía.
